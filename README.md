@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello I'm Nicolás, an undergraduate Creative Computing student at Goldsmiths.I enjoy working with sound synthesis/analysis, front&back end web development, and creating immersive digital experiences!
 
 
